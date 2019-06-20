@@ -4,8 +4,8 @@ library(tokenizers)
 
 # SAMPLE TEXT PROCESSING (quanteda) ----
 # Read in sample text files
-sample1 <- read_lines("data/sample1911.txt") %>% paste0(collapse = "")
-sample2 <- read_lines("data/sample1915.txt") %>% paste0(collapse = "")
+sample1 <- read_lines("data/martinCollection/sample1911.txt") %>% paste0(collapse = "")
+sample2 <- read_lines("data/martinCollection/sample1915.txt") %>% paste0(collapse = "")
 
 # Tokenize sample texts, removing numbers and punctuation
 s1_words <- tokens(sample1, remove_numbers = TRUE, remove_punct = TRUE, remove_hyphens = FALSE)
@@ -66,13 +66,18 @@ clean_sample <- function(text) {
 }
 
 # Read in, clean, and output sample texts
-sample3 <- read_lines("data/sample1911.txt")
-sample4 <- read_lines("data/sample1915.txt")
+sample3 <- read_lines("data/martinCollection/sample1911.txt")
+sample4 <- read_lines("data/martinCollection/sample1915.txt")
 
 sample3_clean <- clean_sample(sample3) %>% paste0(collapse = " ") %>% str_replace_all("\\s+", " ")
-write_lines(sample3_clean, "data/sample1911_processed.txt")
+write_lines(sample3_clean, "data/martinCollection/sample1911_processed.txt")
 
 sample4_clean <- clean_sample(sample4) %>% paste0(collapse = " ") %>% str_replace_all("\\s+", " ")
-write_lines(sample4_clean, "data/sample1915_processed.txt")
+write_lines(sample4_clean, "data/martinCollection/sample1915_processed.txt")
 
 # SAMPLE TEXT PROCESSING (tokenizers) ----
+s1_s <- tokenize_sentences(sample1)
+s1_w <- tokenize_words(s1_s[[1]], strip_numeric = TRUE)
+
+t <- table(s1_w[[1]])
+t <- data_frame(word = names(t), count = as.numeric(t))

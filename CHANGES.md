@@ -23,7 +23,8 @@
 * "sample1915OriginalEncoding.txt" = 2019-06-18 same process as above for Jan-Dec 1915 entries, saved UTF-8 version as "sample1915.txt"
 * "sample1915.txt" = see above
 
-### .csv (?)
+### .csv
+* "word_frequency.csv" = 2019-06-20 downloaded from https://programminghistorian.org/assets/basic-text-processing-in-r/word_frequency.csv, dataset of English word frequencies created by Peter Norvig using the Google Web Trillion Word Corpus
 
 ## Scripts
 
