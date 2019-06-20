@@ -1,60 +1,37 @@
-speech,president,date
-First Inaugural Address,George Washington,30 April 1789
-Second Inaugural Address,George Washington,4 March 1793
-First Inaugural Address,John Adams,4 March 1797
-First Inaugural Address,Thomas Jefferson,4 March 1801
-Second Inaugural Address,Thomas Jefferson,4 March 1805
-First Inaugural Address,James Madison,4 March 1809
-Second Inaugural Address,James Madison,4 March 1813
-First Inaugural Address,James Monroe,4 March 1817
-Second Inaugural Address,James Monroe,5 March 1821
-First Inaugural Address,John Quincy Adams,4 March 1825
-First Inaugural Address,Andrew Jackson,4 March 1829
-Second Inaugural Address,Andrew Jackson,4 March 1833
-First Inaugural Address,Martin Van Buren,4 March 1837
-First Inaugural Address,William Henry Harrison,4 March 1841
-First Inaugural Address,James K. Polk,5 March 1845
-First Inaugural Address,Zachary Taylor,5 March 1849
-First Inaugural Address,Franklin Pierce,4 March 1853
-First Inaugural Address,James Buchanan,4 March 1857
-First Inaugural Address,Abraham Lincoln,4 March 1861
-Second Inaugural Address,Abraham Lincoln,4 March 1865
-First Inaugural Address,Ulysses S. Grant,4 March 1869
-Second Inaugural Address,Ulysses S. Grant,4 March 1873
-First Inaugural Address,Rutherford B. Hayes,4 March 1877
-First Inaugural Address,James A. Garfield,4 March 1881
-First Inaugural Address,Grover Cleveland,4 March 1885
-First Inaugural Address,Benjamin Harrison,4 March 1889
-Second Inaugural Address,Grover Cleveland,4 March 1893
-First Inaugural Address,William McKinley,4 March 1897
-Second Inaugural Address,William McKinley,4 March 1901
-First Inaugural Address,Theodore Roosevelt,4 March 1905
-First Inaugural Address,William Howard Taft,4 March 1909
-First Inaugural Address,Woodrow Wilson,4 March 1913
-Second Inaugural Address,Woodrow Wilson,4 March 1917
-First Inaugural Address,Warren G. Harding,4 March 1921
-First Inaugural Address,Calvin Coolidge,4 March 1925
-First Inaugural Address,Herbert Hoover,4 March 1929
-First Inaugural Address,Franklin Delano Roosevelt,4 March 1933
-Second Inaugural Address,Franklin Delano Roosevelt,20 January 1937
-Third Inaugural Address,Franklin Delano Roosevelt,20 January 1941
-Fourth Inaugural Address,Franklin Delano Roosevelt,20 January 1945
-First Inaugural Address,Harry S. Truman,20 January 1949
-First Inaugural Address,Dwight Eisenhower,20 January 1953
-Second Inaugural Address,Dwight Eisenhower,21 January 1957
-First Inaugural Address,John F. Kennedy,20 January 1961
-First Inaugural Address,Lyndon Baines Johnson,20 January 1965
-First Inaugural Address,Richard M. Nixon,20 January 1969
-Second Inaugural Address,Richard M. Nixon,20 January 1973
-First Inaugural Address,Gerald Ford,9 August 1974
-First Inaugural Address,Jimmy Carter,20 January 1977
-First Inaugural Address,Ronald Reagan,20 January 1981
-Second Inaugural Address,Ronald Reagan,21 January 1985
-First Inaugural Address,George H. W. Bush,20 January 1989
-First Inaugural Address,Bill Clinton,20 January 1993
-Second Inaugural Address,Bill Clinton,20 January 1997
-First Inaugural Address,George W. Bush,20 January 2001
-Second Inaugural Address,George W. Bush,20 January 2005
-First Inaugural Address,Barack Obama,20 January 2009
-Second Inaugural Address,Barack Obama,21 January 2013
-First Inaugural Address,Donald Trump,20 January 2017
+speech,president,date,party
+First Inaugural Address,George Washington,30 April 1789,Unaffiliated
+Second Inaugural Address,George Washington,4 March 1793,Unaffiliated
+First Inaugural Address,John Adams,4 March 1797,Federalist
+First Inaugural Address,Thomas Jefferson,4 March 1801,Democratic-Republican
+Second Inaugural Address,Thomas Jefferson,4 March 1805,Democratic-Republican
+First Inaugural Address,James Madison,4 March 1809,Democratic-Republican
+Second Inaugural Address,James Madison,4 March 1813,Democratic-Republican
+First Inaugural Address,James Monroe,4 March 1817,Democratic-Republican
+Second Inaugural Address,James Monroe,5 March 1821,Democratic-Republican
+First Inaugural Address,John Quincy Adams,4 March 1825,Democratic-Republican
+First Inaugural Address,Andrew Jackson,4 March 1829,Democratic
+Second Inaugural Address,Andrew Jackson,4 March 1833,Democratic
+First Inaugural Address,Martin Van Buren,4 March 1837,Democratic
+First Inaugural Address,William Henry Harrison,4 March 1841,Whig
+First Inaugural Address,Zachary Taylor,5 March 1849,Whig
+First Inaugural Address,Franklin Pierce,4 March 1853,Democratic
+First Inaugural Address,James Buchanan,4 March 1857,Democratic
+First Inaugural Address,Abraham Lincoln,4 March 1861,Republican
+Second Inaugural Address,Abraham Lincoln,4 March 1865,Republican
+First Inaugural Address,Benjamin Harrison,4 March 1889,Republican
+First Inaugural Address,William McKinley,4 March 1897,Republican
+Second Inaugural Address,William McKinley,4 March 1901,Republican
+First Inaugural Address,Theodore Roosevelt,4 March 1905,Republican
+First Inaugural Address,William Howard Taft,4 March 1909,Republican
+First Inaugural Address,Woodrow Wilson,4 March 1913,Democratic
+Second Inaugural Address,Woodrow Wilson,4 March 1917,Democratic
+First Inaugural Address,Calvin Coolidge,4 March 1925,Republican
+First Inaugural Address,Franklin Delano Roosevelt,4 March 1933,Democratic
+Second Inaugural Address,Franklin Delano Roosevelt,20 January 1937,Democratic
+Third Inaugural Address,Franklin Delano Roosevelt,20 January 1941,Democratic
+Fourth Inaugural Address,Franklin Delano Roosevelt,20 January 1945,Democratic
+First Inaugural Address,Harry S. Truman,20 January 1949,Democratic
+First Inaugural Address,Lyndon Baines Johnson,20 January 1965,Democratic
+First Inaugural Address,Barack Obama,20 January 2009,Democratic
+Second Inaugural Address,Barack Obama,21 January 2013,Democratic
+First Inaugural Address,Donald Trump,20 January 2017,Republican
