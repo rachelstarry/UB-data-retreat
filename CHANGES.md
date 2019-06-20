@@ -18,9 +18,9 @@
 ## Processed Data
 
 ### .txt
-* "sample1911OriginalEncoding.txt" = cut out lines from "HerrickDiary1911-1915.txt" for Jan-Dec 1911 entries; realized text was encoded as Western, converted sample to UTF-8 using https://subtitletools.com/convert-text-files-to-utf8-online and saved as "sample1911.txt"
+* "sample1911OriginalEncoding.txt" = 2019-06-18 cut out lines from "HerrickDiary1911-1915.txt" for Jan-Dec 1911 entries; realized text was encoded as Western, converted sample to UTF-8 using https://subtitletools.com/convert-text-files-to-utf8-online and saved as "sample1911.txt"
 * "sample1911.txt" = see above
-* "sample1915OriginalEncoding.txt" = same process as above for Jan-Dec 1915 entries, saved UTF-8 version as "sample1915.txt"
+* "sample1915OriginalEncoding.txt" = 2019-06-18 same process as above for Jan-Dec 1915 entries, saved UTF-8 version as "sample1915.txt"
 * "sample1915.txt" = see above
 
 ### .csv (?)
