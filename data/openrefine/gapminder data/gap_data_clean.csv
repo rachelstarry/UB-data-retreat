@@ -1,0 +1,198 @@
+country,income_per_capita_2011,life_expectancy_2016,population_2015,four_regions
+Afghanistan,1660.0,58.0,3.37E7,asia
+Albania,10200.0,77.7,2920000.0,europe
+Algeria,13000.0,77.4,3.99E7,africa
+Andorra,42000.0,82.5,78000.0,europe
+Angola,5910.0,64.7,2.79E7,africa
+Antigua and Barbuda,18600.0,77.3,99900.0,americas
+Argentina,19600.0,76.7,4.34E7,americas
+Armenia,7020.0,75.7,2920000.0,europe
+Australia,41800.0,82.5,2.38E7,asia
+Austria,44200.0,81.5,8680000.0,europe
+Azerbaijan,15800.0,72.1,9620000.0,europe
+Bahamas,22700.0,73.8,387000.0,americas
+Bahrain,40700.0,76.9,1370000.0,asia
+Bangladesh,2570.0,72.8,1.61E8,asia
+Barbados,15400.0,76.5,284000.0,americas
+Belarus,17200.0,73.5,9490000.0,europe
+Belgium,41200.0,80.9,1.13E7,europe
+Belize,7860.0,72.0,359000.0,americas
+Benin,1820.0,64.4,1.06E7,africa
+Bhutan,6810.0,74.1,787000.0,asia
+Bolivia,5600.0,73.3,1.07E7,americas
+Bosnia and Herzegovina,9890.0,77.6,3540000.0,europe
+Botswana,13900.0,65.5,2210000.0,africa
+Brazil,15000.0,75.3,2.06E8,americas
+Brunei,82400.0,77.0,418000.0,asia
+Bulgaria,15700.0,75.1,7180000.0,europe
+Burkina Faso,1470.0,60.8,1.81E7,africa
+Burundi,772.0,60.4,1.02E7,africa
+Cambodia,2660.0,68.7,1.55E7,asia
+Cameroon,2690.0,60.2,2.28E7,africa
+Canada,41600.0,81.8,3.59E7,americas
+Cape Verde,5990.0,73.7,533000.0,africa
+Central African Republic,912.0,50.3,4550000.0,africa
+Chad,1860.0,59.8,1.4E7,africa
+Chile,20400.0,80.2,1.78E7,americas
+China,10400.0,76.6,1.4E9,asia
+Colombia,11500.0,78.2,4.82E7,americas
+Comoros,1420.0,67.6,777000.0,africa
+"Congo, Dem. Rep.",630.0,61.6,7.62E7,africa
+"Congo, Rep.",5210.0,63.0,5000000.0,africa
+Costa Rica,13400.0,81.0,4810000.0,americas
+Cote d'Ivoire,2510.0,60.0,2.31E7,africa
+Croatia,20700.0,77.3,4240000.0,europe
+Cuba,18800.0,79.0,1.15E7,americas
+Cyprus,33200.0,80.5,1160000.0,europe
+Czech Republic,28800.0,79.1,1.06E7,europe
+Denmark,44400.0,80.8,5690000.0,europe
+Djibouti,2700.0,66.7,927000.0,africa
+Dominica,10100.0,73.0,73200.0,americas
+Dominican Republic,11300.0,75.7,1.05E7,americas
+Ecuador,9930.0,77.9,1.61E7,americas
+Egypt,9820.0,72.2,9.38E7,africa
+El Salvador,7430.0,75.3,6310000.0,americas
+Equatorial Guinea,34400.0,65.5,1180000.0,africa
+Eritrea,1510.0,63.7,4850000.0,africa
+Estonia,24500.0,77.4,1320000.0,europe
+Ethiopia,1160.0,65.6,9.99E7,africa
+Fiji,7490.0,65.5,892000.0,asia
+Finland,40700.0,81.7,5480000.0,europe
+France,37500.0,82.3,6.45E7,europe
+Gabon,15900.0,66.6,1930000.0,africa
+Gambia,1540.0,67.3,1980000.0,africa
+Georgia,7320.0,74.0,3950000.0,europe
+Germany,42700.0,80.9,8.17E7,europe
+Ghana,3400.0,66.0,2.76E7,africa
+Greece,26100.0,81.0,1.12E7,europe
+Grenada,11200.0,71.6,107000.0,americas
+Guatemala,6840.0,72.7,1.63E7,americas
+Guinea,1210.0,60.7,1.21E7,africa
+Guinea-Bissau,1480.0,58.8,1770000.0,africa
+Guyana,6130.0,67.9,769000.0,americas
+Haiti,1560.0,64.0,1.07E7,americas
+Holy See,,,803.0,europe
+Honduras,4050.0,72.7,8960000.0,americas
+"Hong Kong, China",,,,asia
+Hungary,22700.0,75.7,9780000.0,europe
+Iceland,39500.0,82.3,330000.0,europe
+India,4640.0,68.6,1.31E9,asia
+Indonesia,8840.0,71.7,2.58E8,asia
+Iran,17900.0,76.1,7.94E7,asia
+Iraq,13300.0,67.7,3.61E7,asia
+Ireland,45500.0,81.2,4700000.0,europe
+Israel,30500.0,82.1,8060000.0,asia
+Italy,36300.0,82.3,5.95E7,europe
+Jamaica,8100.0,74.9,2870000.0,americas
+Japan,35800.0,83.9,1.28E8,asia
+Jordan,9210.0,76.3,9160000.0,asia
+Kazakhstan,21300.0,71.7,1.77E7,asia
+Kenya,2560.0,66.9,4.72E7,africa
+Kiribati,1710.0,61.9,112000.0,asia
+North Korea,1400.0,70.7,2.52E7,asia
+South Korea,31200.0,80.9,5.06E7,asia
+Kuwait,77500.0,79.7,3940000.0,asia
+Kyrgyz Republic,2920.0,71.2,5870000.0,asia
+Lao,4240.0,67.3,6660000.0,asia
+Latvia,19800.0,74.9,1990000.0,europe
+Lebanon,15700.0,80.1,5850000.0,asia
+Lesotho,2500.0,50.4,2170000.0,africa
+Liberia,734.0,64.4,4500000.0,africa
+Libya,11200.0,75.1,6230000.0,africa
+Liechtenstein,,,37400.0,europe
+Lithuania,22900.0,75.0,2930000.0,europe
+Luxembourg,92000.0,82.1,567000.0,europe
+"Macedonia, FYR",11600.0,74.9,2080000.0,europe
+Madagascar,1370.0,62.7,2.42E7,africa
+Malawi,1050.0,60.3,1.76E7,africa
+Malaysia,21800.0,75.6,3.07E7,asia
+Maldives,11100.0,79.5,418000.0,asia
+Mali,1880.0,61.9,1.75E7,africa
+Malta,28600.0,81.4,428000.0,europe
+Marshall Islands,3500.0,65.0,53000.0,asia
+Mauritania,3370.0,70.3,4180000.0,africa
+Mauritius,16600.0,74.6,1260000.0,africa
+Mexico,15900.0,76.4,1.26E8,americas
+"Micronesia, Fed. Sts.",3410.0,65.6,104000.0,asia
+Moldova,4180.0,72.2,4070000.0,europe
+Monaco,58100.0,,38300.0,europe
+Mongolia,8880.0,68.3,2980000.0,asia
+Montenegro,14500.0,77.0,628000.0,europe
+Morocco,6690.0,75.0,3.48E7,africa
+Mozambique,955.0,60.0,2.8E7,africa
+Myanmar,3900.0,70.0,5.24E7,asia
+Namibia,8720.0,64.8,2430000.0,africa
+Nauru,7340.0,,11300.0,asia
+Nepal,2030.0,70.8,2.87E7,asia
+Netherlands,46100.0,81.6,1.69E7,europe
+New Zealand,32700.0,81.5,4610000.0,asia
+Nicaragua,4230.0,78.2,6080000.0,americas
+Niger,802.0,61.7,1.99E7,africa
+Nigeria,5260.0,65.0,1.81E8,africa
+Norway,62100.0,82.1,5200000.0,europe
+Oman,42100.0,77.6,4200000.0,asia
+Pakistan,4310.0,67.7,1.89E8,asia
+Palau,13000.0,,21300.0,asia
+Panama,16900.0,79.0,3970000.0,americas
+Papua New Guinea,2260.0,60.8,7920000.0,asia
+Paraguay,7500.0,74.6,6640000.0,americas
+Peru,10400.0,79.7,3.14E7,americas
+Philippines,5710.0,70.3,1.02E8,asia
+Poland,22800.0,77.9,3.83E7,europe
+Portugal,26800.0,80.9,1.04E7,europe
+Qatar,129000.0,80.4,2480000.0,asia
+Romania,18100.0,75.3,1.99E7,europe
+Russia,24100.0,70.8,1.44E8,europe
+Rwanda,1420.0,67.7,1.16E7,africa
+St. Kitts and Nevis,21700.0,,54300.0,americas
+St. Lucia,10800.0,76.2,177000.0,americas
+St. Vincent and the Grenadines,9870.0,71.8,109000.0,americas
+Samoa,5670.0,72.0,194000.0,asia
+San Marino,43100.0,,33000.0,europe
+Sao Tome and Principe,2700.0,70.6,196000.0,africa
+Saudi Arabia,48500.0,77.3,3.16E7,asia
+Senegal,2160.0,66.2,1.5E7,africa
+Serbia,13000.0,75.9,8850000.0,europe
+Seychelles,22600.0,73.8,93700.0,africa
+Sierra Leone,1250.0,59.1,7240000.0,africa
+Singapore,75000.0,83.7,5540000.0,asia
+Slovak Republic,25800.0,76.9,5440000.0,europe
+Slovenia,28800.0,80.8,2070000.0,europe
+Solomon Islands,1970.0,63.1,587000.0,asia
+Somalia,614.0,57.2,1.39E7,africa
+South Africa,12200.0,62.4,5.53E7,africa
+Spain,32100.0,82.9,4.64E7,europe
+Sri Lanka,9210.0,77.4,2.07E7,asia
+Sudan,3630.0,68.3,3.86E7,africa
+Suriname,14900.0,71.4,553000.0,americas
+Swaziland,7320.0,57.7,1320000.0,africa
+Sweden,43800.0,82.0,9760000.0,europe
+Switzerland,55900.0,83.1,8320000.0,europe
+Syria,6360.0,68.4,1.87E7,asia
+Taiwan,,,,asia
+Tajikistan,2210.0,71.9,8550000.0,asia
+Tanzania,2190.0,64.3,5.39E7,africa
+Thailand,13500.0,77.8,6.87E7,asia
+Timor-Leste,1960.0,72.7,1240000.0,asia
+Togo,1230.0,62.6,7420000.0,africa
+Tonga,5100.0,70.4,106000.0,asia
+Trinidad and Tobago,31000.0,73.2,1360000.0,americas
+Tunisia,10100.0,77.5,1.13E7,africa
+Turkey,19700.0,79.1,7.83E7,europe
+Turkmenistan,11200.0,70.2,5570000.0,asia
+Tuvalu,3230.0,,11000.0,asia
+Uganda,1630.0,62.3,4.01E7,africa
+Ukraine,8280.0,72.0,4.47E7,europe
+United Arab Emirates,58400.0,76.6,9150000.0,asia
+United Kingdom,36500.0,80.9,6.54E7,europe
+United States,49800.0,78.8,3.2E8,americas
+Uruguay,17900.0,77.3,3430000.0,americas
+Uzbekistan,4470.0,70.3,3.1E7,asia
+Vanuatu,2920.0,64.0,265000.0,asia
+Venezuela,17000.0,75.5,3.12E7,americas
+Palestine,2660.0,71.8,4660000.0,asia
+Vietnam,4720.0,74.5,9.36E7,asia
+Yemen,3800.0,66.7,2.69E7,asia
+Zambia,3360.0,58.8,1.61E7,africa
+Zimbabwe,1660.0,59.3,1.58E7,africa
+South Sudan,3480.0,59.7,1.19E7,africa
