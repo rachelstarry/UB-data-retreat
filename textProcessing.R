@@ -17,7 +17,7 @@ temp <- tolower(string)
 temp
 
 # remove everything that is not a word - what regex do we need here?
-temp <- str_replace_all(temp, "[.]", "")
+temp <- str_replace_all(temp, "[^a-zA-Z\\s]", " ")
 temp
 
 # remove any extra spaces between words
