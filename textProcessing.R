@@ -1,6 +1,6 @@
-# Install packages (only run these lines ONCE)
-install.packages("tidyverse")
-install.packages("tokenizers")
+# Install packages (only run these lines ONCE; erase the # to "uncomment" these lines and run them)
+# install.packages("tidyverse")
+# install.packages("tokenizers")
 
 # Load the packages into our working environment
 library(tidyverse)
@@ -122,7 +122,7 @@ metadata
 
 # summarize the top 5 most used words with frequency less than 0.002% in a general English corpus
 tab <- filter(tab, frequency < 0.002)
-result <- c(metadata$president[56], metadata$date[56], tab$word[1:5])
+result <- c(metadata$president[57], metadata$date[57], tab$word[1:5])
 paste(result, collapse = "; ")
 
 # Corpus analysis with tokenizers and tidyverse ----

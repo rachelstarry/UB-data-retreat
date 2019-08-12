@@ -1,5 +1,5 @@
-# Install packages (only run these lines ONCE)
-install.packages("stringr")
+# Install packages (only run these lines ONCE; erase the # to "uncomment" this line and run it)
+# install.packages("stringr")
 
 # Load the packages into our working environment
 library(stringr)
@@ -17,7 +17,7 @@ typeof(num)
 realnum <- c(1:10)
 typeof(realnum)
 realnum <- toString(num)
-typeof(numnum)
+typeof(realnum)
 
 # A few base R string functions
 nchar(text)
@@ -116,7 +116,12 @@ grep(pattern = "t+", names, value = T)
 grep(pattern = "s{2}", names, value = T)
 
 # how would you match all names with at least two As?
+# solution: grep(pattern = "a.*a", names, value = T)
+# explanation: the regex says "find an a, followed by one or more characters of any kind (.*), then another a"
+
 # how would you match "anna" but not "garcia"?
+# solution: grep(pattern = "n{2}", names, value = T)
+# explanation: the regex says "find two consecutive n's"
 
 # Sequences
 # Sequences contain special characters used to describe a pattern in a string
@@ -173,15 +178,28 @@ gsub(pattern = "[^[:alnum:]]+", replacement = "", string)
 # Exercises ----
 # A) Extract all the digits from this string
 string <- "My roll number is 1006781"
+# solution a: gsub(pattern = "[^0-9]", replacement = "", string)
+# explanation: remove all non-digit characters from the string and you are left with just the digits
+# solution b: regmatches(string, regexpr("[0-9]+", string))
+# explanation: find all matches for the regex, that says "find one or more digits"
 
-# B) Find out if the values "A1" and "A4" are present in this string
+# B) Find out if the values "A1" and "A4" are present in this vector of strings
 string <- c("A1","A2","A3","A4","A5","A6","A7")
+# solution: grepl(pattern = "A1|A4", string)
+# explanation: the regex says "find this value OR that value"
 
 # C) Given these key-value pairs, extract only the values
 string <-  c("G1:E001", "G2:E002", "G3:E003")
+# solution: gsub(pattern = ".*:", replacement = "", string)
+# explanation: replace all characters before a colon with an empty string and you're left with just the values
 
 # D) Remove all the punctuation from this string
 string <- "a1~!@#$%^&*bcd(){}_+:efg\"<>?,./;'[]-="
+# solution: gsub(pattern = "[[:punct:]]", replacement = "", string)
+# explanation: using the POSIX character class for punctuation, replace all punctuation with an empty string
 
 # E) Extract the email addresses from this string
 string <- c("My email address is abc@boeing.com", "my email address is def@jobs.com", "aescher koeif", "paul renne")
+# solution: unlist(regmatches(string, gregexpr(pattern = "[[:alnum:]]+\\@[[:alpha:]]+\\.com", string)))
+# explanation: find matches for a regex that says "look for one or more alphanumeric characters, then an @ symbol,
+# ...then some alphabetic characters, then .com" 
